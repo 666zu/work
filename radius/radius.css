@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+.middle{
+	margin:auto auto;
+	border:#000 solid 3px;
+	width:200px;
+	height:100px;
+	position:absolute;
+	left:5px;
+	right:5px;
+	top:5px;
+	}
+.right_radius{
+	border-top-left-radius:40px;
+	border:#F00 solid;
+	width:40px;
+	height:40px;
+	position:relative;
+	left:155px;
+	top:55px;
+	background:#F00;
+	
+	
+	}
+.left_radius
+{
+	border-bottom-right-radius:40px;
+	border:#000 ;
+	width:40px;
+	height:40px;
+	left:0px;
+	top:-46px;
+    position:relative;
+	background-color:#f00;
+}

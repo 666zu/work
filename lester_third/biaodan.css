@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+table{
+	margin:0 auto;
+	}
+#first{
+	padding-right:30px;
+	}
+#third{
+	padding-left:10px;
+	}
+input{
+	height:30px;
+	width:200px;
+	border-radius:5px;
+	border-color:#CCC;
+	}
+button{
+	background-color:#06F;
+	color:#FFF;
+	border:none;
+	border-radius:5px;
+	height:30px;
+	width:40px;
+	}
+#info{
+	font-size:9px;
+	}
